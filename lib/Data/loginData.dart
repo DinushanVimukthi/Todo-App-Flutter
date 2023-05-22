@@ -85,7 +85,7 @@ class LoginData {
   }
 
   static createEmptyLoginData (){
-    return LoginData('stdinushan@gmail.com', '123456');
+    return LoginData('', '');
     // return LoginData('', '');
   }
 
